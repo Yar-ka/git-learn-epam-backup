@@ -3,5 +3,8 @@
 ещё, учим gui
 added at home
 bububu
+<<<<<<< HEAD
 
 we will try  revert
+=======
+>>>>>>> parent of d454a8d (закинули через строку)
